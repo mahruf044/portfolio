@@ -1,0 +1,77 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.banner-container{
+    background-color: lightcyan;
+}
+
+.banner-column{
+    background-color: lightseagreen;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.navbar-container{
+    background-color: darkgrey;
+    position: sticky;
+    top :0;
+    z-index: 2;
+}
+
+.about-container{
+    background-color: violet;
+}
+
+.gg{
+    text-align: center;
+    
+}
+
+.circle{
+    background-color: lightpink;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.project-container
+{
+    background-color: lightsalmon;
+}
+
+.contact-container
+{
+    background-color: darkgoldenrod;
+}
+
+.holderrr{
+    background-color: darkgoldenrod;
+}
+
+.footer-container
+{
+    background-color: rgb(24, 179, 140);
+}
+
+.circle1
+{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    font-size: 40px;
+}
+
+.circle1:hover
+{
+    background-color: white;
+}
+.skill-container{
+    background-color: lemonchiffon;
+}
+.training-container{
+    background-color: rgb(248, 206, 102);
+}
